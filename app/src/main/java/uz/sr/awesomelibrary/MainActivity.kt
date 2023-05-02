@@ -13,11 +13,11 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
 import androidx.core.view.GravityCompat
 import androidx.drawerlayout.widget.DrawerLayout
-import uz.sr.awesome.AwesomeValidation
-import uz.sr.awesome.ValidationStyle
-import uz.sr.awesome.ValidationStyle.*
-import uz.sr.awesome.utility.RegexTemplate
-import uz.sr.awesome.utility.custom.SimpleCustomValidation
+import uz.sr.mylibrary.ValidationStyle.*
+import uz.sr.mylibrary.utility.RegexTemplate
+import uz.sr.mylibrary.utility.custom.SimpleCustomValidation
+import uz.sr.mylibrary.AwesomeValidation
+import uz.sr.mylibrary.ValidationStyle
 import java.text.ParseException
 import java.text.SimpleDateFormat
 import java.util.*
