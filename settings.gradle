@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "AwesomeLibrary"
 include ':app'
 include ':mylibrary'
+

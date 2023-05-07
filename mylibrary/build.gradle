@@ -4,6 +4,7 @@ plugins {
     id("maven-publish")
 }
 
+
 android {
     namespace 'uz.sr.mylibrary'
     compileSdk 33
